@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: rgba(211, 219, 212, 0.473);
+}
+h1{
+    margin: 20px;
+    color: rgb(46, 125, 150);
+   text-align: center;
+}
+.form-floating{
+    margin: 50px 140px 0 ;
+}
+.form-select{
+    margin: 30px 0 0 300px;
+    float: left;
+    height: 50px;
+}
+.float{
+    float: right;
+}
+.b{
+    height: 50px;
+    width: 200px;
+    margin: 30px 350px 0 30px;
+}
+.left{
+    float: left;
+}
